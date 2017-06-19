@@ -1,0 +1,1 @@
+I can't believe we only have 1 more week left of instruction.  It has gone by so fast and I have learned so much.  I know we've just scratched the surface with HTML/CSS and Javascript, but I am excited for all that I will learn by the time I finish with 401.  I think the wireframes has helped me quite a bite in how to approach designing or putting together a website.
